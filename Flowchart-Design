@@ -1,0 +1,15 @@
+Start
+  ↓
+Data Collection (Geo-tagged images, Waste Data)
+  ↓
+Preprocessing (Cleaning, Labeling, Formatting)
+  ↓
+Model Training (Using KMeans + Other ML Models)
+  ↓
+Waste Detection & Clustering
+  ↓
+Visualization on Map (TrashMap AI interface)
+  ↓
+Report Generation + Analytics
+  ↓
+End
