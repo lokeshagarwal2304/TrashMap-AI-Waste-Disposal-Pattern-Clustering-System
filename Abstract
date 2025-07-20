@@ -1,0 +1,8 @@
+🧾Abstract
+> **Title:** TrashMap AI – A Cluster-Based Smart Mapping System for Waste Monitoring
+
+In rapidly urbanizing environments, unmonitored trash accumulation poses a serious threat to public health, aesthetics, and sustainability. *TrashMap AI* is an intelligent geospatial system that utilizes clustering algorithms to identify, group, and visualize high-trash-density regions across urban and semi-urban areas.
+
+The system processes geotagged data of waste locations using **K-Means Clustering** to segment areas based on trash levels. These clusters are visualized on interactive maps using **Folium**, enabling authorities and NGOs to monitor waste hotspots in real-time. This lightweight yet scalable tool simplifies decision-making for **clean-up operations**, **resource deployment**, and **urban sanitation planning**.
+
+Developed in Python and optimized for Google Colab, TrashMap AI requires only a simple `.csv` dataset containing **latitude, longitude, and trash severity** to begin meaningful analysis. This project exemplifies the application of machine learning in civic and environmental tech, aiming to build **cleaner, smarter, and more responsive cities.**
