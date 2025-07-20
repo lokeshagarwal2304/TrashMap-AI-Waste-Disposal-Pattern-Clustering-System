@@ -1,0 +1,20 @@
+digraph System_Architecture {
+	rankdir=LR
+	U [label=User]
+	UI [label="Web Interface / Mobile App"]
+	VS [label="Voice/Text Input System"]
+	ML [label="ML Model (KMeans + Classifier)"]
+	MAP [label="Location Mapper"]
+	DB [label="Database (Complaints, Users, Categories)"]
+	ADMIN [label="Admin Dashboard"]
+	RESP [label="Response & Notification System"]
+	U -> UI
+	UI -> VS
+	VS -> ML
+	ML -> MAP
+	ML -> DB
+	MAP -> DB
+	DB -> ADMIN
+	ADMIN -> RESP
+	RESP -> U
+}
