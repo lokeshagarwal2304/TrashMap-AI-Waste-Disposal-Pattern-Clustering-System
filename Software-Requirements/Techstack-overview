@@ -1,0 +1,28 @@
+**1. Python**
+
+* Core programming language for data processing and machine learning.
+* Enables integration of key libraries like Pandas, NumPy, and scikit-learn.
+
+#### **2. Google Colab**
+
+* Cloud-based Jupyter Notebook environment.
+* Simplifies development, collaboration, and GPU-accelerated computation.
+
+#### **3. scikit-learn**
+
+* Machine learning library used for KMeans clustering.
+* Allows us to segment locations based on trash density efficiently.
+
+#### **4. Pandas & NumPy**
+
+* Used for data handling and numerical operations.
+* Supports preprocessing, feature scaling, and matrix operations.
+
+#### **5. Matplotlib & Seaborn**
+
+* Visualization libraries to create insightful 2D plots.
+* Used for mapping clusters and evaluating spread.
+
+#### **6. GeoPandas (Future Scope)**
+
+* For enhanced spatial data handling and mapping trash clusters on real maps.
