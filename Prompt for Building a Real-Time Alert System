@@ -1,0 +1,5 @@
+Act as a full-stack IoT system developer. 
+I’m building a real-time alert system for a smart waste management platform called ‘TrashMap’.
+The goal is to detect when a trash bin is full using ultrasonic or weight-based sensors and send real-time alerts to municipal workers or users via a web dashboard or SMS/WhatsApp.
+Design the complete workflow, suggest best-fit tech stack (hardware + software), build scalable APIs, and include notification triggers. Add support for geolocation, priority levels, and offline mode.
+Ensure low-latency response time and energy-efficient operations for remote locations.
