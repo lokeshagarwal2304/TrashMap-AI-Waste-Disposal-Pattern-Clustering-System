@@ -1,0 +1,32 @@
+## 🛠️ Hardware Requirements – TrashMap (by Gayatri)
+
+| **Component**          | **Specification**                                                      | **Purpose**                                                    |
+| ---------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Microcontroller**    | Raspberry Pi 4 Model B / Arduino Mega 2560                             | Core processing and control of sensors and communication       |
+| **GPS Module**         | u-blox NEO-6M / Quectel L86 GPS Module                                 | Real-time location tracking of trash bins or collection trucks |
+| **Wi-Fi Module**       | ESP8266 / NodeMCU / in-built in Raspberry Pi                           | Wireless data transmission to central server or cloud          |
+| **Ultrasonic Sensors** | HC-SR04                                                                | To measure trash level (bin fill status detection)             |
+| **Battery Backup**     | 12V Li-ion rechargeable battery (minimum 2200mAh)                      | Power backup in case of electricity outage                     |
+| **Power Supply Unit**  | 5V/2A regulated adapter / Solar power panel (optional for remote bins) | Main power source                                              |
+| **Enclosure Box**      | Weatherproof ABS casing                                                | Protecting electronics from dust/rain                          |
+| **Camera Module**      | Raspberry Pi Camera / USB Webcam (optional)                            | For image-based trash classification (optional AI feature)     |
+| **Display (Optional)** | 16x2 LCD / OLED Display                                                | Local display of bin status or device health (if needed)       |
+| **Server (Remote)**    | Cloud-hosted (Firebase / AWS / Local Server)                           | Backend for receiving and processing bin data                  |
+
+---
+
+### Optional Add-ons:
+
+* **RFID Module** (for authenticated access to smart bins)
+* **Weight Sensor** (load cell) – to measure the weight of trash
+* **4G LTE Module** (SIM800L / SIM7600) – if no WiFi available
+
+---
+
+### 🔗 Integration Flow:
+
+1. Ultrasonic → Microcontroller → Data processed
+2. GPS & Fill status sent via Wi-Fi → Cloud/Server
+3. Dashboard displays real-time bin info & maps location
+
+---
