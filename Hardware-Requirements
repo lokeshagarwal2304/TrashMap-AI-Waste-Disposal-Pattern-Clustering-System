@@ -1,6 +1,6 @@
 ## 🛠️ Hardware Requirements – TrashMap (by Gayatri)
 
-| **Component**          | **Specification**                                                      | **Purpose**                                                    |
+|   Component            |   Specification                                                        |   Purpose                                                      |
 | ---------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **Microcontroller**    | Raspberry Pi 4 Model B / Arduino Mega 2560                             | Core processing and control of sensors and communication       |
 | **GPS Module**         | u-blox NEO-6M / Quectel L86 GPS Module                                 | Real-time location tracking of trash bins or collection trucks |
