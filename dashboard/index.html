@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TrashMap - Authority Dashboard</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>🚮 TrashMap - Sanitation Authority Dashboard</h1>
+  </header>
+  <main>
+    <section id="stats">
+      <h2>Waste Reports Summary</h2>
+      <div id="summary-cards">
+        <!-- JS will populate stats here -->
+      </div>
+    </section>
+
+    <section id="reports-table">
+      <h2>Live Reports</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Report ID</th>
+            <th>Type</th>
+            <th>Location</th>
+            <th>Status</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="report-rows">
+          <!-- JS will populate rows -->
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
