@@ -1,0 +1,6 @@
+image_id,image_url,label,location,submitted_by,verified
+img001,https://your-storage.com/images/img001.jpg,plastic,Hyderabad,Lokesh,False
+img002,https://your-storage.com/images/img002.jpg,organic,Bangalore,Lokesh,False
+img003,https://your-storage.com/images/img003.jpg,metal,Delhi,Gayatri,False
+img004,https://your-storage.com/images/img004.jpg,e-waste,Mumbai,Lokesh,False
+img005,https://your-storage.com/images/img005.jpg,plastic,Chennai,Lokesh,False
