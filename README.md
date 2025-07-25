@@ -2,6 +2,9 @@
 
 **TrashMap AI** is an innovative machine learning project that clusters urban waste hotspots using unsupervised learning techniques and geospatial data. This system is built to assist municipalities and smart city planners in optimizing waste collection routes, identifying garbage overflow zones, and improving public hygiene infrastructure.
 
+
+<img width="1080" height="630" alt="image" src="https://github.com/user-attachments/assets/80aa80ac-711b-4b7a-880c-6ba35c4172c9" />
+
 ---
 
 ## 🚀 Features
@@ -82,7 +85,24 @@ You can use or combine datasets from:
 
 ## 📸 Sample Output (optional)
 
-> *(Insert heatmap/clustering screenshot here)*
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="960" height="772" alt="image" src="https://github.com/user-attachments/assets/b290e305-914f-4ef0-b09c-5c02292a1daf" width="200" height="300"/></td>
+      <td><img width="960" height="772" alt="image" src="https://github.com/user-attachments/assets/1b97dfdc-8a43-479b-8b48-6fdcb450c5a5"width="200" height="200"/></td>
+      <td><img width="960" height="772" alt="image" src="https://github.com/user-attachments/assets/5874f09b-69c9-40e5-ae92-73a96d0a50a9"width="200" height="200"/></td>
+      <td><img width="960" height="772" alt="image" src="https://github.com/user-attachments/assets/be5a52c2-315d-456c-817b-06bd8da5d681" />
+</td>
+    </tr>
+    <tr align="center">
+      <td><b>Clusters</b></td>
+      <td><b>Geo-Spatial Map</b></td>
+      <td><b>Alerts</b></td>
+      <td><b>Analytics</b></td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
