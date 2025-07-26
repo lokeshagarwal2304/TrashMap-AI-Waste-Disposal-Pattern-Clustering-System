@@ -64,6 +64,11 @@ You can use or combine datasets from:
 5.**Route Plan** → Integrate with Google Maps API for optimized collection path
 
 ---
+Usage
+Data Preprocessing: Run the 01_Preprocessing-Data.ipynb notebook to download and prepare the dataset. This notebook performs data augmentation to enhance model performance.
+Model Training: Once the data is prepared, execute 02_Train-Model.ipynb to train the MobileNetV2 model with the processed data. This notebook includes steps for training and evaluating the model.
+Model Quantization: To optimize the model, run 03_Quantization_model.ipynb. This step is optional but recommended for improving model efficiency.
+---
 
 ## ✅ Future Scope
 
