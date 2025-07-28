@@ -3,6 +3,7 @@
 
 **TrashMap AI** is an innovative machine learning project that clusters urban waste hotspots using unsupervised learning techniques and geospatial data. This system is built to assist municipalities and smart city planners in optimizing waste collection routes, identifying garbage overflow zones, and improving public hygiene infrastructure.
 
+---
 
 <img width="1080" height="630" alt="image" src="https://github.com/user-attachments/assets/80aa80ac-711b-4b7a-880c-6ba35c4172c9" />
 
